@@ -21,8 +21,7 @@
 			});*/
 		} else {
 			$.stellar({
-				horizontalScrolling: false,
-				verticalOffset: 150
+				horizontalScrolling: false
 			});
 		}
 	});
