@@ -50,8 +50,10 @@
 }
 
 /* Slide 1 */
-#bg1 .bcg {background-image:url('../img/bg1.jpg')}
-#bg2 .bcg {background-image:url('../img/bg2.jpg')}
+#bg1 .bcg {background-image:url('../img/background/bg1_low.jpg')}
+#bg2 .bcg {background-image:url('../img/background/bg2_low.jpg')}
+#bg3 .bcg {background-image:url('../img/background/bg3_low.jpg')}
+#bg4 .bcg {background-image:url('../img/background/bg4_low.jpg')}
 
 /*.mobile body {
   overflow: hidden;
