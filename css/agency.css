@@ -345,7 +345,11 @@ section h3.section-subheading {
     }*/
 }
 
-.mission-statement-heading {
+section h3.leadership-section-subheading {
+    margin-bottom: 30px;
+}
+
+.subsection-heading {
     margin: 15px 0;
     text-transform: none;
 }
