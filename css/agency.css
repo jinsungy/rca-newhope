@@ -354,6 +354,20 @@ section h3.leadership-section-subheading {
     text-transform: none;
 }
 
+.location-map {
+    position: relative;
+    padding-bottom: 75%;
+    height: 0;
+    overflow: hidden;
+}
+.location-map iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
 #leadership .leadership-item {
     right: 0;
     margin: 0 0 15px;
