@@ -272,6 +272,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    padding-bottom: 100px;
 }
 
 header .intro-text {
@@ -810,6 +811,14 @@ ul.top-nav-social-buttons li a:active {
 .btn.active,
 .btn:active:focus {
     outline: 0;
+}
+
+.mission-statement-body {
+    padding-bottom: 50px;
+}
+
+.leadership-subsection {
+    padding-bottom: 80px;
 }
 
 .leadership-modal .modal-content {
