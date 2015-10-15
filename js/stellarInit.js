@@ -11,9 +11,9 @@
 
 		if (isMobileWebkit) {
 			// disable parallax on mobile
-			/*iScrollInstance = new iScroll('wrapper');
+			// iScrollInstance = new iScroll('scroller');
 
-			$('#scroller').stellar({
+			/*$('#scroller').stellar({
 				scrollProperty: 'transform',
 				positionProperty: 'transform',
 				horizontalScrolling: false,
@@ -21,7 +21,8 @@
 			});*/
 		} else {
 			$.stellar({
-				horizontalScrolling: false
+				horizontalScrolling: false,
+				verticalOffset: 100
 			});
 		}
 	});

@@ -369,6 +369,14 @@ section h3.leadership-section-subheading {
     height: 100% !important;
 }
 
+.mission-statement-body {
+    padding-bottom: 50px;
+}
+
+.leadership-subsection {
+    padding: 0px 30px 80px 30px;
+}
+
 #leadership .leadership-item {
     right: 0;
     margin: 0 0 15px;
@@ -811,14 +819,6 @@ ul.top-nav-social-buttons li a:active {
 .btn.active,
 .btn:active:focus {
     outline: 0;
-}
-
-.mission-statement-body {
-    padding-bottom: 50px;
-}
-
-.leadership-subsection {
-    padding-bottom: 80px;
 }
 
 .leadership-modal .modal-content {
