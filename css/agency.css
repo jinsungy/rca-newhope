@@ -789,8 +789,7 @@ ul.social-buttons li a:active {
 }
 
 ul.top-nav-social-buttons {
-    margin-left: 10px;
-    margin-bottom: 0;
+    margin: 5px 0px 0px 10px;
 }
 
 ul.top-nav-social-buttons li a {
