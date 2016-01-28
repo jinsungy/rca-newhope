@@ -1,0 +1,11 @@
+.parallax-window {
+    min-height: 700px;
+    background: transparent;
+}
+
+/* tablet */
+@media only screen and (max-width : 768px)  {
+    .parallax-window {
+        min-height: 400px;
+    }
+}
